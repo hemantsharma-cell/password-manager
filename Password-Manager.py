@@ -67,7 +67,7 @@ print("-" * 60)
 print(" " * 20 + "Password-Manager" + " " * 20)
 print("-" * 60)
 masterpasswd=input("Enter your master password: ")
-if masterpasswd=="Hemanth@123":
+if masterpasswd=="Test@123":
     print("Access granted")
     while True:
         print("\n1. Add Password")

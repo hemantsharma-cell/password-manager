@@ -24,7 +24,7 @@ A lightweight, terminal-based Password Manager written in Python. This project w
    ```bash
    python Password-Manager.py
    ```
-*(Note: You will be prompted for a master password to access the stored credentials just enter "Hemanth@123" to access the passwords you change the master password in the code if you want to).*
+*(Note: You will be prompted for a master password to access the stored credentials just enter "Test@123" to access the passwords you change the master password in the code if you want to).*
 
 ---
 *This is currently Version 1 of the project. Future updates will include data encryption and JSON structuring.*
